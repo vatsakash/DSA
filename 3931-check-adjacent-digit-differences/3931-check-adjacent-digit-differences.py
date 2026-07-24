@@ -4,7 +4,6 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        dif = []
         for i in range(1,len(s)):
             first_dig = ord(s[i-1]) - ord('0')
             adj_dig = ord(s[i]) - ord('0')
