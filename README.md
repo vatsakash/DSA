@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0415-add-strings) |
+| [3536-maximum-product-of-two-digits](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0013-roman-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
