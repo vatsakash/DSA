@@ -51,4 +51,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
