@@ -9,6 +9,7 @@
 | [0415-add-strings](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3536-maximum-product-of-two-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0389-find-the-difference) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
