@@ -69,6 +69,7 @@
 | [0197-rising-temperature](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0596-classes-with-at-least-5-students) |
+| [1407-top-travellers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1407-top-travellers) |
 ## Counting Sort
 |  |
 | ------- |
