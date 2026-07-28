@@ -16,6 +16,7 @@
 | [0058-length-of-last-word](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0415-add-strings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3813-vowel-consonant-score](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3813-vowel-consonant-score) |
 | [3931-check-adjacent-digit-differences](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
@@ -32,6 +33,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -59,4 +61,8 @@
 | [0197-rising-temperature](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0596-classes-with-at-least-5-students) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
