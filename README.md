@@ -55,6 +55,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0344-reverse-string) |
 ## Heap (Priority Queue)
 |  |
