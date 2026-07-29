@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -21,6 +22,7 @@
 | [0389-find-the-difference](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0415-add-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3813-vowel-consonant-score](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3813-vowel-consonant-score) |
 | [3931-check-adjacent-digit-differences](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
@@ -34,6 +36,7 @@
 | [0013-roman-to-integer](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0389-find-the-difference) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +78,7 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,4 +87,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
