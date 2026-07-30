@@ -9,6 +9,7 @@
 | [0415-add-strings](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -23,6 +24,7 @@
 | [0344-reverse-string](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0415-add-strings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3813-vowel-consonant-score](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3813-vowel-consonant-score) |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
