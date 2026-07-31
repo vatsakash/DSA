@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -72,6 +73,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0344-reverse-string) |
