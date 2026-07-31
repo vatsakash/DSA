@@ -47,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -62,6 +63,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1331-rank-transform-of-an-array) |
@@ -76,6 +78,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0344-reverse-string) |
