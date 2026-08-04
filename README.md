@@ -56,6 +56,7 @@
 | [0088-merge-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -74,6 +75,7 @@
 | [0075-sort-colors](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0877-stone-game) |
