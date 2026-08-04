@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -159,4 +160,9 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
