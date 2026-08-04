@@ -51,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0389-find-the-difference) |
@@ -68,6 +69,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0486-predict-the-winner) |
@@ -86,6 +88,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0283-move-zeroes) |
@@ -143,4 +146,12 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0877-stone-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
