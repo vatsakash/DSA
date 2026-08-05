@@ -28,6 +28,7 @@
 | [0389-find-the-difference](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0415-add-strings) |
+| [0541-reverse-string-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0541-reverse-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -98,6 +99,7 @@
 | [0283-move-zeroes](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0541-reverse-string-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
