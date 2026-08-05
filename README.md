@@ -7,6 +7,7 @@
 | [0013-roman-to-integer](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -56,6 +58,7 @@
 | [0075-sort-colors](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -75,6 +78,7 @@
 | [0066-plus-one](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0486-predict-the-winner) |
@@ -122,6 +126,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0389-find-the-difference) |
 ## Number Theory
 |  |
@@ -165,6 +170,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
