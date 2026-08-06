@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1929-concatenation-of-array) |
 | [3813-vowel-consonant-score](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3813-vowel-consonant-score) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3731-find-missing-elements) |
 ## Trie
