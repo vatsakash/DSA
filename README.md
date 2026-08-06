@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -28,6 +29,7 @@
 | [0344-reverse-string](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -40,6 +42,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1929-concatenation-of-array) |
 | [3813-vowel-consonant-score](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3813-vowel-consonant-score) |
