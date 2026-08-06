@@ -15,6 +15,7 @@
 | [0877-stone-game](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -202,4 +203,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1672-richest-customer-wealth) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
