@@ -23,6 +23,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0058-length-of-last-word) |
@@ -52,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0268-missing-number) |
@@ -194,6 +196,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
