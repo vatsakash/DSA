@@ -73,6 +73,7 @@
 | [0389-find-the-difference](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -96,6 +97,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -125,6 +127,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Database
 |  |
@@ -138,6 +141,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0912-sort-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -224,4 +228,20 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
