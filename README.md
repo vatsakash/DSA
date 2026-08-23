@@ -101,6 +101,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0912-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -201,6 +202,7 @@
 | [0035-search-insert-position](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Newton's Method
 |  |
@@ -212,12 +214,14 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
