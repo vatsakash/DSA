@@ -36,6 +36,7 @@
 | [0392-is-subsequence](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -60,6 +61,7 @@
 | [0242-valid-anagram](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1331-rank-transform-of-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
