@@ -65,6 +65,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -111,6 +112,7 @@
 | [1929-concatenation-of-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
