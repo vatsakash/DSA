@@ -153,6 +153,7 @@
 | [1075-project-employees-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1148-article-views-i) |
 | [1407-top-travellers](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1407-top-travellers) |
+| [1484-group-sold-products-by-the-date](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/1484-group-sold-products-by-the-date) |
 ## Counting Sort
 |  |
 | ------- |
