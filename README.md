@@ -94,6 +94,7 @@
 | [0066-plus-one](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0414-third-maximum-number) |
@@ -191,6 +192,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vatsakash/GFG-160-Days-Challenge/tree/master/0877-stone-game) |
